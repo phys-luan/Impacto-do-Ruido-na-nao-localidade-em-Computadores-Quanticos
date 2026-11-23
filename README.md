@@ -25,15 +25,15 @@ As desigualdades de Bell estabelecem limites para as correlações previstas por
 
 O parâmetro CHSH é definido por:
 
-\[
+$$
 S=E(A_0,B_0)+E(A_0,B_1)+E(A_1,B_0)-E(A_1,B_1).
-\]
+$$
 
 Para teorias de variáveis ocultas locais, o limite é:
 
-\[
+$$
 |S|\leq 2.
-\]
+$$
 
 A violação desse limite indica correlações incompatíveis com modelos de variáveis ocultas locais.
 
@@ -45,7 +45,7 @@ Essa abordagem possibilita avaliar como as operações realizadas ao longo do ci
 
 ### Tomografia de estados quânticos
 
-A tomografia de estados quânticos permite reconstruir a matriz densidade do sistema de dois qubits (\(\rho_{AB}\)) a partir das estatísticas de medidas em diferentes bases.
+A tomografia de estados quânticos permite reconstruir a matriz densidade do sistema de dois qubits $\rho_{AB}\$ a partir das estatísticas de medidas em diferentes bases.
 
 A reconstrução do estado permite calcular diferentes métricas, possibilitando a caracterização do estado quântico após a aplicação das operações e dos processos ruidosos.
 
